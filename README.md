@@ -2,7 +2,9 @@
 
 This is a project built with [React](https://reactjs.org/), Bootstrap, [Tailwind CSS](https://tailwindcss.com/), and other technologies like  to display data about SpaceX's rockets, capsules, and other assets. The data comes from [SpaceX's open-source API](https://docs.spacexdata.com/).
 
-https://github.com/hritvikgupta/spacex-project/assets/60143996/10b6121a-ba9e-4f59-b37a-083134f76473
+
+https://github.com/hritvikgupta/Hritvik-Gupta-Frontend-Developer/assets/60143996/a4c854f5-79cc-4759-9508-128a4d6d02b0
+
 
 
 
