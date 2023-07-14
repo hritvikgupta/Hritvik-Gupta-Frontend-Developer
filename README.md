@@ -32,18 +32,10 @@ Here's a list of the main components in the project:
 
 - `App.js`: This is the main component that renders the application.
 - `components/`: This directory contains various React components used throughout the application.
-  - `Header.js`: This component renders the header of the application.
-  - `LoadingState.js`: This component renders a loading state when data is being fetched.
 - `Contexts/`: This directory contains the context provider used to share state across the application.
-  - `AuthProvider.js`: This component provides user authentication context.
 - `hooks/`: This directory contains custom React hooks.
-  - `useCapsuleSearch.js`: This hook provides a function for searching capsules.
-  - `useCompany.js`: This hook fetches and provides company information.
-  - `useFetch.js`: This is a generic hook for fetching data.
-  - `useRoutes.js`: This hook handles routing.
 - `pages/`: This directory contains the components for each page in the application.
 - `testing/`: This directory contains tests for the components.
-  - `Header.test.js`: This file contains tests for the Header component.
 
 ## In Depth Project Structure
 
